@@ -1,0 +1,45 @@
+button{
+    color : blue;
+    background-color: coral;
+}
+
+#buttonOne{
+    font-size: 30px;
+}
+.btn{
+    padding: 20px;
+}
+#okey{
+ width:100%;
+ height:50px;
+}
+p {
+    border: 10px solid black;
+    margin: 20px;
+  }
+  .Arial {
+    font-family: Arial;
+  }
+  .TimesNewRoman {
+    font-family: "Times New Roman";
+  }
+  .Verdana {
+    font-family: Verdana;
+  }
+  #farah{
+      margin: 30px;
+    color: cyan;
+    text-align: justify;
+}
+h1{
+    font-size: 20px
+}
+div {
+  display: grid;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 100px 200px 300px;
+  grid-template-rows: 100px 200px 300px;
+}

@@ -1,0 +1,56 @@
+
+p {
+    display: inline;
+}
+#safia { 
+    display:flex;
+    justify-content: center;
+    align-items: baseline;
+    color: darkred;
+}
+#sabrine { 
+    display: inline-flex;
+    align-items: flex-end;
+    background-color: darksalmon;
+    color: darkviolet;
+    justify-content: space-around;
+}   
+#h1 { 
+    font-size: large;
+    font-family: fantasy;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}   
+h3 { 
+    font-size: x-large;
+   font-family: serif;
+    border: 10px solid blue;
+}
+.nav1, .sticky {
+    /* display: inline; */
+    position: sticky;
+    top: 0;
+    background-color: yellow;
+    padding: 5px;
+    font-size: 10px;
+}
+table.static {
+    position: static;
+  border: 3px solid;
+}
+
+
+div{
+    height: 150px;
+    width: 90%;
+}
+
+
+
+
+
+
+
+{
+
